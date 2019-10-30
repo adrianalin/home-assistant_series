@@ -1,0 +1,1 @@
+This is the code for a series of blog posts that I am writing about isolated components from home assistant and exploring how they work. I do this for fun and to learn more about software architecture and how to interact with smart home appliances.
