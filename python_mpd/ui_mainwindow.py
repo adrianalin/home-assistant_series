@@ -3,7 +3,7 @@
 # Form implementation generated from reading ui file 'mainwindow.ui',
 # licensing of 'mainwindow.ui' applies.
 #
-# Created: Fri Nov 22 09:17:10 2019
+# Created: Fri Nov 22 09:33:30 2019
 #      by: pyside2-uic  running on PySide2 5.13.0
 #
 # WARNING! All changes made in this file will be lost!
@@ -142,6 +142,7 @@ class Ui_MainWindow(object):
         self.now_playing_label.setStyleSheet("color: white;")
         self.now_playing_label.setAlignment(QtCore.Qt.AlignCenter)
         self.now_playing_label.setWordWrap(True)
+        self.now_playing_label.setMargin(10)
         self.now_playing_label.setObjectName("now_playing_label")
         self.gridLayout.addWidget(self.now_playing_label, 0, 0, 1, 1)
         self.gridLayout_3 = QtWidgets.QGridLayout()
@@ -192,5 +193,5 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QtWidgets.QApplication.translate("MainWindow", "MainWindow", None, -1))
-        self.now_playing_label.setText(QtWidgets.QApplication.translate("MainWindow", "Now playing.", None, -1))
+        self.now_playing_label.setText(QtWidgets.QApplication.translate("MainWindow", "dfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf", None, -1))
 
