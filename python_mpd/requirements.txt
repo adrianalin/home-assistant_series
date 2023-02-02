@@ -8,4 +8,4 @@ MarkupSafe==1.1.1
 PySide2==5.13.0
 python-mpd2==1.0.0
 shiboken2==5.13.0
-Werkzeug==0.15.4
+Werkzeug==0.15.5
